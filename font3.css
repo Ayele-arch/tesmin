@@ -1,10 +1,11 @@
-#img-size{
-    width: 400px;
-    height: 300px;
+#img-size {
+  width: 400px;
+  height: 300px;
 }
-.class{
-    width: 100px;
-    height: 100px;
-    
-
+.class {
+  width: 100px;
+  height: 100px;
+}
+.tesmin {
+  text-align: left;
 }

@@ -1,24 +1,32 @@
-body{
-    background-image: url(images.jpeg);
+body {
+  background-image: url(images.jpeg);
 }
-h1{color: rgb(46, 14, 2); text-align: center; font-size: 400%;}
-h2{color: blue; text-align: center;}
-.container{
-    color: rgb(46, 10, 10);
-    width: 20%;
-    margin: left;
-    overflow: hidden;
-    
-    
+h1 {
+  color: rgb(46, 14, 2);
+  text-align: center;
+  font-size: 400%;
 }
-#forParg{ color: rgb(32, 10, 5);
-    font-size: 180%;
-    text-align: left;
+h2 {
+  color: blue;
+  text-align: center;
+}
+.container {
+  color: rgb(46, 10, 10);
+  width: 20%;
+  margin: left;
+  overflow: hidden;
+}
+#forParg {
+  color: rgb(32, 10, 5);
+  font-size: 180%;
+  text-align: left;
 }
 
-.par2 { color: rgb(170, 24, 24);
-        font-weight: bold;
-        
-
+.par2 {
+  color: rgb(170, 24, 24);
+  font-weight: bold;
 }
 
+.tesmin {
+  text-align: left;
+}
